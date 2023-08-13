@@ -1,0 +1,60 @@
+2022-22-13 09:22:52.287 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2022-22-13 09:22:52.306 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is initialized
+2022-22-13 09:22:52.816 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Worker IDE is initialized
+2022-22-13 09:22:53.554 [JavaFX Application Thread] INFO  fxml.client.project.yer0013.eShop.Worker - App started
+2022-22-13 09:22:53.897 [executor-thread-1] INFO  resource.server.project.yer0013.eShop.CategoryResource - Create category: Category(id=null, name=Test)
+2022-22-13 09:22:54.010 [executor-thread-1] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2022-22-13 09:22:54.009 [executor-thread-7] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2022-22-13 09:22:54.011 [executor-thread-3] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2022-22-13 09:22:54.011 [executor-thread-5] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2022-22-13 09:22:54.010 [executor-thread-6] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2022-22-13 09:22:54.010 [executor-thread-2] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2022-22-13 09:22:54.009 [executor-thread-4] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2022-22-13 09:22:54.035 [executor-thread-6] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2022-22-13 09:22:54.035 [executor-thread-2] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2022-22-13 09:22:54.037 [executor-thread-4] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2022-22-13 09:22:54.100 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.CustomerController - Data is updated
+2022-22-13 09:22:54.106 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.CustomerController - Data is initialized
+2022-22-13 09:22:54.270 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.CustomerController - Customer IDE is initialized
+2022-22-13 09:22:54.671 [JavaFX Application Thread] INFO  fxml.client.project.yer0013.eShop.Customer - App started
+2022-23-13 09:23:06.114 [executor-thread-4] INFO  resource.server.project.yer0013.eShop.OrderResource - Create order: OrderCart(id=null, status=0, completionDate=null, item=Item(id=5, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test)))
+2022-23-13 09:23:06.561 [executor-thread-4] INFO  resource.server.project.yer0013.eShop.OrderResource - Create order: OrderCart(id=null, status=0, completionDate=null, item=Item(id=6, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test)))
+2022-23-13 09:23:08.182 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2022-23-13 09:23:08.183 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is initialized
+2022-23-13 09:23:09.095 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2022-23-13 09:23:09.360 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2022-23-13 09:23:10.459 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2022-23-13 09:23:10.459 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is initialized
+2022-03-06 14:03:26.361 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2022-03-06 14:03:26.400 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is initialized
+2022-03-06 14:03:26.752 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Worker IDE is initialized
+2022-03-06 14:03:27.318 [JavaFX Application Thread] INFO  fxml.client.project.yer0013.eShop.Worker - App started
+2022-03-06 14:03:29.665 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2022-03-06 14:03:29.665 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is initialized
+2022-03-06 14:03:41.154 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2022-03-06 14:03:41.156 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is initialized
+2022-03-06 14:03:41.338 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Worker IDE is initialized
+2022-03-06 14:03:41.653 [JavaFX Application Thread] INFO  fxml.client.project.yer0013.eShop.Worker - App started
+2022-03-06 14:03:51.389 [executor-thread-1] INFO  resource.server.project.yer0013.eShop.CategoryResource - Create category: Category(id=null, name=Test)
+2022-03-06 14:03:51.496 [executor-thread-1] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2022-03-06 14:03:51.497 [executor-thread-2] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2022-03-06 14:03:51.497 [executor-thread-4] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2022-03-06 14:03:51.497 [executor-thread-7] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2022-03-06 14:03:51.496 [executor-thread-3] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2022-03-06 14:03:51.497 [executor-thread-6] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2022-03-06 14:03:51.496 [executor-thread-5] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2022-03-06 14:03:51.511 [executor-thread-1] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2022-03-06 14:03:51.521 [executor-thread-2] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2022-03-06 14:03:51.524 [executor-thread-7] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2022-03-06 14:03:51.591 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.CustomerController - Data is updated
+2022-03-06 14:03:51.596 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.CustomerController - Data is initialized
+2022-03-06 14:03:51.786 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.CustomerController - Customer IDE is initialized
+2022-03-06 14:03:52.308 [JavaFX Application Thread] INFO  fxml.client.project.yer0013.eShop.Customer - App started
+2022-03-06 14:03:56.212 [executor-thread-7] INFO  resource.server.project.yer0013.eShop.OrderResource - Create order: OrderCart(id=null, status=0, completionDate=null, item=Item(id=4, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test)))
+2022-03-06 14:03:57.190 [executor-thread-7] INFO  resource.server.project.yer0013.eShop.OrderResource - Create order: OrderCart(id=null, status=0, completionDate=null, item=Item(id=5, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test)))
+2022-04-06 14:04:07.711 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2022-04-06 14:04:07.713 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is initialized
+2022-04-06 14:04:07.875 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Worker IDE is initialized
+2022-04-06 14:04:08.240 [JavaFX Application Thread] INFO  fxml.client.project.yer0013.eShop.Worker - App started
+2022-04-06 14:04:10.786 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2022-04-06 14:04:12.254 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated

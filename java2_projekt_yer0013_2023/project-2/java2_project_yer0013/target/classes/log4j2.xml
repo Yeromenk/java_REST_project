@@ -1,0 +1,16 @@
+<Configuration status="INFO">
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </Console>
+        <File name="LoggerFile" fileName="logOut/log4j2.log" append="true">
+            <PatternLayout pattern="%d{yyyy-mm-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </File>
+    </Appenders>
+    <Loggers>
+        <Root level="info">
+            <appender-ref ref="Console" level="info"/>
+            <appender-ref ref="LoggerFile" level="info"/>
+        </Root>
+    </Loggers>
+</Configuration>

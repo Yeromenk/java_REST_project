@@ -1,0 +1,353 @@
+2023-18-14 17:18:46.838 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2023-18-14 17:18:46.849 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is initialized
+2023-18-14 17:18:47.377 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Worker IDE is initialized
+2023-18-14 17:18:48.217 [JavaFX Application Thread] INFO  fxml.client.project.yer0013.eShop.Worker - App started
+2023-19-14 17:19:05.851 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2023-19-14 17:19:05.852 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is initialized
+2023-19-14 17:19:25.509 [executor-thread-1] INFO  resource.server.project.yer0013.eShop.CategoryResource - Create category: Category(id=null, name=Test)
+2023-19-14 17:19:25.693 [executor-thread-5] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-19-14 17:19:25.693 [executor-thread-2] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-19-14 17:19:25.693 [executor-thread-8] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-19-14 17:19:25.693 [executor-thread-9] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-19-14 17:19:25.693 [executor-thread-1] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-19-14 17:19:25.693 [executor-thread-3] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-19-14 17:19:25.693 [executor-thread-4] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-19-14 17:19:25.694 [executor-thread-6] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-19-14 17:19:25.694 [executor-thread-7] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-19-14 17:19:25.695 [executor-thread-10] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-19-14 17:19:25.867 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.CustomerController - Data is updated
+2023-19-14 17:19:25.875 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.CustomerController - Data is initialized
+2023-19-14 17:19:26.324 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.CustomerController - Customer IDE is initialized
+2023-19-14 17:19:27.595 [JavaFX Application Thread] INFO  fxml.client.project.yer0013.eShop.Customer - App started
+2023-19-14 17:19:42.258 [executor-thread-10] INFO  resource.server.project.yer0013.eShop.OrderResource - Create order: OrderCart(id=null, status=0, completionDate=null, item=Item(id=2, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test)))
+2023-19-14 17:19:44.710 [executor-thread-10] INFO  resource.server.project.yer0013.eShop.OrderResource - Create order: OrderCart(id=null, status=0, completionDate=null, item=Item(id=6, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test)))
+2023-19-14 17:19:48.858 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2023-19-14 17:19:48.858 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is initialized
+2023-19-14 17:19:49.769 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2023-19-14 17:19:49.769 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is initialized
+2023-19-14 17:19:51.434 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2023-19-14 17:19:52.431 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2023-19-14 17:19:53.974 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2023-19-14 17:19:53.974 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is initialized
+2023-19-14 17:19:57.026 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.CustomerController - Data is updated
+2023-19-14 17:19:57.026 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.CustomerController - Data is initialized
+2023-04-14 18:04:26.229 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2023-04-14 18:04:26.236 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is initialized
+2023-04-14 18:04:26.745 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Worker IDE is initialized
+2023-04-14 18:04:27.729 [JavaFX Application Thread] INFO  fxml.client.project.yer0013.eShop.Worker - App started
+2023-05-14 18:05:18.012 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2023-05-14 18:05:18.017 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is initialized
+2023-05-14 18:05:18.420 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Worker IDE is initialized
+2023-05-14 18:05:19.279 [JavaFX Application Thread] INFO  fxml.client.project.yer0013.eShop.Worker - App started
+2023-05-14 18:05:36.294 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.CustomerController - Data is updated
+2023-05-14 18:05:36.299 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.CustomerController - Data is initialized
+2023-05-14 18:05:36.777 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.CustomerController - Customer IDE is initialized
+2023-05-14 18:05:38.045 [JavaFX Application Thread] INFO  fxml.client.project.yer0013.eShop.Customer - App started
+2023-05-14 18:05:50.308 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2023-05-14 18:05:50.309 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is initialized
+2023-05-14 18:05:53.999 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2023-05-14 18:05:54.733 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2023-06-14 18:06:05.490 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2023-06-14 18:06:05.491 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is initialized
+2023-06-14 18:06:08.309 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2023-06-14 18:06:08.845 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2023-09-02 17:09:29.201 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2023-09-02 17:09:29.203 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is initialized
+2023-09-02 17:09:29.426 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Worker IDE is initialized
+2023-09-02 17:09:29.854 [JavaFX Application Thread] INFO  fxml.client.project.yer0013.eShop.Worker - App started
+2023-09-02 17:09:43.835 [executor-thread-1] INFO  resource.server.project.yer0013.eShop.CategoryResource - Create category: Category(id=null, name=Test)
+2023-09-02 17:09:43.918 [executor-thread-2] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-09-02 17:09:43.918 [executor-thread-7] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-09-02 17:09:43.919 [executor-thread-5] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-09-02 17:09:43.918 [executor-thread-10] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-09-02 17:09:43.918 [executor-thread-4] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-09-02 17:09:43.919 [executor-thread-9] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-09-02 17:09:43.918 [executor-thread-6] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-09-02 17:09:43.919 [executor-thread-1] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-09-02 17:09:43.919 [executor-thread-8] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-09-02 17:09:43.919 [executor-thread-3] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-09-02 17:09:44.004 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.CustomerController - Data is updated
+2023-09-02 17:09:44.009 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.CustomerController - Data is initialized
+2023-09-02 17:09:44.261 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.CustomerController - Customer IDE is initialized
+2023-09-02 17:09:44.828 [JavaFX Application Thread] INFO  fxml.client.project.yer0013.eShop.Customer - App started
+2023-09-02 17:09:49.732 [executor-thread-8] INFO  resource.server.project.yer0013.eShop.OrderResource - Create order: OrderCart(id=null, status=0, completionDate=null, item=Item(id=2, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test)))
+2023-09-02 17:09:51.629 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2023-09-02 17:09:51.629 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is initialized
+2023-09-02 17:09:53.519 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2023-09-02 17:09:56.350 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.CustomerController - Data is updated
+2023-09-02 17:09:56.350 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.CustomerController - Data is initialized
+2023-40-04 14:40:21.414 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2023-40-04 14:40:21.418 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is initialized
+2023-40-04 14:40:21.645 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Worker IDE is initialized
+2023-40-04 14:40:22.044 [JavaFX Application Thread] INFO  fxml.client.project.yer0013.eShop.Worker - App started
+2023-40-04 14:40:32.305 [executor-thread-1] INFO  resource.server.project.yer0013.eShop.CategoryResource - Create category: Category(id=null, name=Test)
+2023-40-04 14:40:32.386 [executor-thread-1] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-40-04 14:40:32.386 [executor-thread-6] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-40-04 14:40:32.386 [executor-thread-2] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-40-04 14:40:32.386 [executor-thread-5] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-40-04 14:40:32.386 [executor-thread-7] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-40-04 14:40:32.386 [executor-thread-3] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-40-04 14:40:32.386 [executor-thread-10] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-40-04 14:40:32.386 [executor-thread-8] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-40-04 14:40:32.386 [executor-thread-4] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-40-04 14:40:32.386 [executor-thread-9] INFO  resource.server.project.yer0013.eShop.ItemResource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-40-04 14:40:32.461 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.CustomerController - Data is updated
+2023-40-04 14:40:32.464 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.CustomerController - Data is initialized
+2023-40-04 14:40:32.679 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.CustomerController - Customer IDE is initialized
+2023-40-04 14:40:33.233 [JavaFX Application Thread] INFO  fxml.client.project.yer0013.eShop.Customer - App started
+2023-40-04 14:40:43.088 [executor-thread-4] INFO  resource.server.project.yer0013.eShop.OrderResource - Create order: OrderCart(id=null, status=0, completionDate=null, item=Item(id=2, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test)))
+2023-40-04 14:40:45.300 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is updated
+2023-40-04 14:40:45.300 [JavaFX Application Thread] INFO  controller.client.project.yer0013.eShop.WorkerController - Data is initialized
+2023-42-04 14:42:46.904 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is updated
+2023-42-04 14:42:46.907 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is initialized
+2023-42-04 14:42:47.099 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Worker IDE is initialized
+2023-42-04 14:42:47.479 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.fxml.Worker - App started
+2023-42-04 14:42:57.954 [executor-thread-1] INFO  project.yer0013.eShop.server.resource.Category_Resource - Create category: Category(id=null, name=Test)
+2023-42-04 14:42:58.042 [executor-thread-6] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-42-04 14:42:58.042 [executor-thread-5] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-42-04 14:42:58.043 [executor-thread-10] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-42-04 14:42:58.042 [executor-thread-3] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-42-04 14:42:58.042 [executor-thread-4] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-42-04 14:42:58.042 [executor-thread-8] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-42-04 14:42:58.042 [executor-thread-7] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-42-04 14:42:58.043 [executor-thread-1] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-42-04 14:42:58.043 [executor-thread-9] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-42-04 14:42:58.043 [executor-thread-2] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-42-04 14:42:58.137 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is updated
+2023-42-04 14:42:58.141 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is initialized
+2023-42-04 14:42:58.393 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Customer IDE is initialized
+2023-42-04 14:42:58.954 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.fxml.Customer - App started
+2023-51-04 14:51:13.055 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is updated
+2023-51-04 14:51:13.058 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is initialized
+2023-51-04 14:51:13.251 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Worker IDE is initialized
+2023-51-04 14:51:13.648 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.fxml.Worker - App started
+2023-51-04 14:51:19.882 [executor-thread-1] INFO  project.yer0013.eShop.server.resource.Category_Resource - Create category: Category(id=null, name=Test)
+2023-51-04 14:51:19.966 [executor-thread-6] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 7, price=35.0, rating=3.5, ratingCount=70, category=Category(id=1, name=Test))
+2023-51-04 14:51:19.966 [executor-thread-7] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 4, price=20.0, rating=2.0, ratingCount=40, category=Category(id=1, name=Test))
+2023-51-04 14:51:19.966 [executor-thread-8] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 6, price=30.0, rating=3.0, ratingCount=60, category=Category(id=1, name=Test))
+2023-51-04 14:51:19.966 [executor-thread-10] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 8, price=40.0, rating=4.0, ratingCount=80, category=Category(id=1, name=Test))
+2023-51-04 14:51:19.966 [executor-thread-2] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 2, price=10.0, rating=1.0, ratingCount=20, category=Category(id=1, name=Test))
+2023-51-04 14:51:19.966 [executor-thread-3] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 10, price=50.0, rating=5.0, ratingCount=100, category=Category(id=1, name=Test))
+2023-51-04 14:51:19.967 [executor-thread-4] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 1, price=5.0, rating=0.5, ratingCount=10, category=Category(id=1, name=Test))
+2023-51-04 14:51:19.967 [executor-thread-1] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 9, price=45.0, rating=4.5, ratingCount=90, category=Category(id=1, name=Test))
+2023-51-04 14:51:19.967 [executor-thread-9] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 5, price=25.0, rating=2.5, ratingCount=50, category=Category(id=1, name=Test))
+2023-51-04 14:51:19.967 [executor-thread-5] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 3, price=15.0, rating=1.5, ratingCount=30, category=Category(id=1, name=Test))
+2023-51-04 14:51:20.032 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is updated
+2023-51-04 14:51:20.035 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is initialized
+2023-51-04 14:51:20.261 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Customer IDE is initialized
+2023-51-04 14:51:20.741 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.fxml.Customer - App started
+2023-51-04 14:51:34.021 [executor-thread-4] INFO  project.yer0013.eShop.server.resource.Order_Resource - Create order: OrderCart(id=null, status=0, completionDate=null, item=Item(id=2, name=Game 4, price=20.0, rating=2.0, ratingCount=40, category=Category(id=1, name=Test)))
+2023-51-04 14:51:35.852 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is updated
+2023-51-04 14:51:35.853 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is initialized
+2023-51-04 14:51:37.418 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is updated
+2023-51-04 14:51:39.440 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is updated
+2023-51-04 14:51:39.441 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is initialized
+2023-36-07 15:36:35.754 [executor-thread-1] INFO  project.yer0013.eShop.server.resource.Category_Resource - Create category: Category(id=null, name=Test)
+2023-36-07 15:36:35.941 [executor-thread-2] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-36-07 15:36:35.938 [executor-thread-1] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-36-07 15:36:35.968 [executor-thread-3] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-36-07 15:36:35.974 [executor-thread-2] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-36-07 15:36:35.995 [executor-thread-4] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-36-07 15:36:35.998 [executor-thread-1] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-36-07 15:36:36.001 [executor-thread-3] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-36-07 15:36:36.020 [executor-thread-2] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-36-07 15:36:36.020 [executor-thread-5] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-36-07 15:36:36.032 [executor-thread-6] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=TestItem, price=10.0, rating=0.0, ratingCount=0, category=Category(id=1, name=Test))
+2023-53-07 15:53:31.938 [executor-thread-1] INFO  project.yer0013.eShop.server.resource.Category_Resource - Create category: Category(id=null, name=Test)
+2023-53-07 15:53:32.205 [executor-thread-1] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 6, price=30.0, rating=3.0, ratingCount=60, category=Category(id=1, name=Test))
+2023-53-07 15:53:32.205 [executor-thread-4] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 8, price=40.0, rating=4.0, ratingCount=80, category=Category(id=1, name=Test))
+2023-53-07 15:53:32.205 [executor-thread-7] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 3, price=15.0, rating=1.5, ratingCount=30, category=Category(id=1, name=Test))
+2023-53-07 15:53:32.205 [executor-thread-3] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 7, price=35.0, rating=3.5, ratingCount=70, category=Category(id=1, name=Test))
+2023-53-07 15:53:32.205 [executor-thread-10] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 5, price=25.0, rating=2.5, ratingCount=50, category=Category(id=1, name=Test))
+2023-53-07 15:53:32.205 [executor-thread-5] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 10, price=50.0, rating=5.0, ratingCount=100, category=Category(id=1, name=Test))
+2023-53-07 15:53:32.206 [executor-thread-8] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 9, price=45.0, rating=4.5, ratingCount=90, category=Category(id=1, name=Test))
+2023-53-07 15:53:32.206 [executor-thread-2] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 4, price=20.0, rating=2.0, ratingCount=40, category=Category(id=1, name=Test))
+2023-53-07 15:53:32.206 [executor-thread-9] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 1, price=5.0, rating=0.5, ratingCount=10, category=Category(id=1, name=Test))
+2023-53-07 15:53:32.206 [executor-thread-6] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 2, price=10.0, rating=1.0, ratingCount=20, category=Category(id=1, name=Test))
+2023-53-07 15:53:32.332 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is updated
+2023-53-07 15:53:32.340 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is initialized
+2023-53-07 15:53:32.867 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Customer IDE is initialized
+2023-53-07 15:53:34.195 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.fxml.Customer - App started
+2023-56-07 15:56:14.457 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is updated
+2023-56-07 15:56:14.463 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is initialized
+2023-56-07 15:56:14.929 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Worker IDE is initialized
+2023-56-07 15:56:15.833 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.fxml.Worker - App started
+2023-56-07 15:56:37.389 [executor-thread-1] INFO  project.yer0013.eShop.server.resource.Category_Resource - Create category: Category(id=null, name=Test)
+2023-56-07 15:56:37.597 [executor-thread-2] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 8, price=40.0, rating=4.0, ratingCount=80, category=Category(id=1, name=Test))
+2023-56-07 15:56:37.597 [executor-thread-4] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 1, price=5.0, rating=0.5, ratingCount=10, category=Category(id=1, name=Test))
+2023-56-07 15:56:37.597 [executor-thread-5] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 6, price=30.0, rating=3.0, ratingCount=60, category=Category(id=1, name=Test))
+2023-56-07 15:56:37.597 [executor-thread-3] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 5, price=25.0, rating=2.5, ratingCount=50, category=Category(id=1, name=Test))
+2023-56-07 15:56:37.597 [executor-thread-7] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 7, price=35.0, rating=3.5, ratingCount=70, category=Category(id=1, name=Test))
+2023-56-07 15:56:37.598 [executor-thread-1] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 10, price=50.0, rating=5.0, ratingCount=100, category=Category(id=1, name=Test))
+2023-56-07 15:56:37.598 [executor-thread-8] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 2, price=10.0, rating=1.0, ratingCount=20, category=Category(id=1, name=Test))
+2023-56-07 15:56:37.598 [executor-thread-10] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 9, price=45.0, rating=4.5, ratingCount=90, category=Category(id=1, name=Test))
+2023-56-07 15:56:37.598 [executor-thread-6] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 4, price=20.0, rating=2.0, ratingCount=40, category=Category(id=1, name=Test))
+2023-56-07 15:56:37.598 [executor-thread-9] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 3, price=15.0, rating=1.5, ratingCount=30, category=Category(id=1, name=Test))
+2023-56-07 15:56:37.749 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is updated
+2023-56-07 15:56:37.756 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is initialized
+2023-56-07 15:56:38.231 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Customer IDE is initialized
+2023-56-07 15:56:39.544 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.fxml.Customer - App started
+2023-57-07 15:57:09.540 [executor-thread-1] INFO  project.yer0013.eShop.server.resource.Order_Resource - Create order: OrderCart(id=null, status=0, completionDate=null, item=Item(id=2, name=Game 4, price=20.0, rating=2.0, ratingCount=40, category=Category(id=1, name=Test)))
+2023-57-07 15:57:10.175 [executor-thread-1] INFO  project.yer0013.eShop.server.resource.Order_Resource - Create order: OrderCart(id=null, status=0, completionDate=null, item=Item(id=3, name=Game 7, price=35.0, rating=3.5, ratingCount=70, category=Category(id=1, name=Test)))
+2023-57-07 15:57:10.856 [executor-thread-1] INFO  project.yer0013.eShop.server.resource.Order_Resource - Create order: OrderCart(id=null, status=0, completionDate=null, item=Item(id=4, name=Game 8, price=40.0, rating=4.0, ratingCount=80, category=Category(id=1, name=Test)))
+2023-57-07 15:57:11.809 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is updated
+2023-57-07 15:57:11.809 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is initialized
+2023-57-07 15:57:14.731 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is updated
+2023-57-07 15:57:14.731 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is initialized
+2023-57-07 15:57:16.388 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is updated
+2023-57-07 15:57:16.843 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is updated
+2023-57-07 15:57:17.222 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is updated
+2023-57-07 15:57:17.966 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is updated
+2023-57-07 15:57:17.967 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is initialized
+2023-57-07 15:57:19.741 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is updated
+2023-57-07 15:57:19.741 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is initialized
+2023-57-07 15:57:20.152 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is updated
+2023-57-07 15:57:20.152 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is initialized
+2023-57-07 15:57:21.723 [executor-thread-1] INFO  project.yer0013.eShop.server.resource.Order_Resource - Create order: OrderCart(id=null, status=0, completionDate=null, item=Item(id=3, name=Game 7, price=35.0, rating=3.5, ratingCount=70, category=Category(id=1, name=Test)))
+2023-09-07 16:09:53.335 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is updated
+2023-09-07 16:09:53.340 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is initialized
+2023-09-07 16:09:53.778 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Worker IDE is initialized
+2023-09-07 16:09:54.632 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.fxml.Worker - App started
+2023-10-07 16:10:11.932 [executor-thread-1] INFO  project.yer0013.eShop.server.resource.Category_Resource - Create category: Category(id=null, name=Test)
+2023-10-07 16:10:12.130 [executor-thread-10] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 9, price=45.0, rating=4.5, ratingCount=90, category=Category(id=1, name=Test))
+2023-10-07 16:10:12.131 [executor-thread-4] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 4, price=20.0, rating=2.0, ratingCount=40, category=Category(id=1, name=Test))
+2023-10-07 16:10:12.130 [executor-thread-7] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 3, price=15.0, rating=1.5, ratingCount=30, category=Category(id=1, name=Test))
+2023-10-07 16:10:12.131 [executor-thread-3] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 7, price=35.0, rating=3.5, ratingCount=70, category=Category(id=1, name=Test))
+2023-10-07 16:10:12.131 [executor-thread-2] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 5, price=25.0, rating=2.5, ratingCount=50, category=Category(id=1, name=Test))
+2023-10-07 16:10:12.131 [executor-thread-1] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 6, price=30.0, rating=3.0, ratingCount=60, category=Category(id=1, name=Test))
+2023-10-07 16:10:12.131 [executor-thread-9] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 2, price=10.0, rating=1.0, ratingCount=20, category=Category(id=1, name=Test))
+2023-10-07 16:10:12.131 [executor-thread-8] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 8, price=40.0, rating=4.0, ratingCount=80, category=Category(id=1, name=Test))
+2023-10-07 16:10:12.132 [executor-thread-5] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 1, price=5.0, rating=0.5, ratingCount=10, category=Category(id=1, name=Test))
+2023-10-07 16:10:12.132 [executor-thread-6] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 10, price=50.0, rating=5.0, ratingCount=100, category=Category(id=1, name=Test))
+2023-10-07 16:10:12.275 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is updated
+2023-10-07 16:10:12.280 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is initialized
+2023-10-07 16:10:12.711 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Customer IDE is initialized
+2023-10-07 16:10:13.965 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.fxml.Customer - App started
+2023-18-07 16:18:10.829 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is updated
+2023-18-07 16:18:10.833 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is initialized
+2023-18-07 16:18:11.246 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Worker IDE is initialized
+2023-18-07 16:18:12.110 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.fxml.Worker - App started
+2023-18-07 16:18:26.155 [executor-thread-1] INFO  project.yer0013.eShop.server.resource.Category_Resource - Create category: Category(id=null, name=Test)
+2023-18-07 16:18:26.356 [executor-thread-2] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 5, price=25.0, rating=2.5, ratingCount=50, category=Category(id=1, name=Test))
+2023-18-07 16:18:26.356 [executor-thread-3] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 10, price=50.0, rating=5.0, ratingCount=100, category=Category(id=1, name=Test))
+2023-18-07 16:18:26.356 [executor-thread-10] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 9, price=45.0, rating=4.5, ratingCount=90, category=Category(id=1, name=Test))
+2023-18-07 16:18:26.357 [executor-thread-1] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 2, price=10.0, rating=1.0, ratingCount=20, category=Category(id=1, name=Test))
+2023-18-07 16:18:26.357 [executor-thread-7] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 1, price=5.0, rating=0.5, ratingCount=10, category=Category(id=1, name=Test))
+2023-18-07 16:18:26.357 [executor-thread-9] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 6, price=30.0, rating=3.0, ratingCount=60, category=Category(id=1, name=Test))
+2023-18-07 16:18:26.357 [executor-thread-8] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 8, price=40.0, rating=4.0, ratingCount=80, category=Category(id=1, name=Test))
+2023-18-07 16:18:26.356 [executor-thread-5] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 7, price=35.0, rating=3.5, ratingCount=70, category=Category(id=1, name=Test))
+2023-18-07 16:18:26.357 [executor-thread-4] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 4, price=20.0, rating=2.0, ratingCount=40, category=Category(id=1, name=Test))
+2023-18-07 16:18:26.357 [executor-thread-6] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 3, price=15.0, rating=1.5, ratingCount=30, category=Category(id=1, name=Test))
+2023-18-07 16:18:26.544 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is updated
+2023-18-07 16:18:26.549 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is initialized
+2023-18-07 16:18:27.020 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Customer IDE is initialized
+2023-18-07 16:18:28.197 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.fxml.Customer - App started
+2023-19-07 16:19:24.554 [executor-thread-10] INFO  project.yer0013.eShop.server.resource.Order_Resource - Create order: OrderCart(id=null, status=0, completionDate=null, item=Item(id=2, name=Game 8, price=40.0, rating=4.0, ratingCount=80, category=Category(id=1, name=Test)))
+2023-19-07 16:19:26.965 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is updated
+2023-19-07 16:19:26.966 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is initialized
+2023-19-07 16:19:28.112 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is updated
+2023-19-07 16:19:32.349 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is updated
+2023-19-07 16:19:32.350 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is initialized
+2023-44-07 16:44:25.534 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is updated
+2023-44-07 16:44:25.540 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is initialized
+2023-44-07 16:44:25.965 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Worker IDE is initialized
+2023-44-07 16:44:26.834 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.fxml.Worker - App started
+2023-48-07 16:48:26.390 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is updated
+2023-48-07 16:48:26.394 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is initialized
+2023-48-07 16:48:26.794 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Worker IDE is initialized
+2023-48-07 16:48:27.644 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.fxml.Worker - App started
+2023-48-07 16:48:41.389 [executor-thread-1] INFO  project.yer0013.eShop.server.resource.Category_Resource - Create category: Category(id=null, name=Test)
+2023-48-07 16:48:41.602 [executor-thread-10] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 10, price=50.0, rating=5.0, ratingCount=100, category=Category(id=1, name=Test))
+2023-48-07 16:48:41.602 [executor-thread-5] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 4, price=20.0, rating=2.0, ratingCount=40, category=Category(id=1, name=Test))
+2023-48-07 16:48:41.602 [executor-thread-4] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 3, price=15.0, rating=1.5, ratingCount=30, category=Category(id=1, name=Test))
+2023-48-07 16:48:41.603 [executor-thread-8] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 2, price=10.0, rating=1.0, ratingCount=20, category=Category(id=1, name=Test))
+2023-48-07 16:48:41.603 [executor-thread-9] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 8, price=40.0, rating=4.0, ratingCount=80, category=Category(id=1, name=Test))
+2023-48-07 16:48:41.604 [executor-thread-2] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 7, price=35.0, rating=3.5, ratingCount=70, category=Category(id=1, name=Test))
+2023-48-07 16:48:41.604 [executor-thread-3] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 1, price=5.0, rating=0.5, ratingCount=10, category=Category(id=1, name=Test))
+2023-48-07 16:48:41.604 [executor-thread-7] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 9, price=45.0, rating=4.5, ratingCount=90, category=Category(id=1, name=Test))
+2023-48-07 16:48:41.605 [executor-thread-6] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 6, price=30.0, rating=3.0, ratingCount=60, category=Category(id=1, name=Test))
+2023-48-07 16:48:41.605 [executor-thread-1] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 5, price=25.0, rating=2.5, ratingCount=50, category=Category(id=1, name=Test))
+2023-48-07 16:48:41.765 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is updated
+2023-48-07 16:48:41.771 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is initialized
+2023-48-07 16:48:42.251 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Customer IDE is initialized
+2023-48-07 16:48:43.586 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.fxml.Customer - App started
+2023-52-07 17:52:37.804 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is updated
+2023-52-07 17:52:37.807 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is initialized
+2023-52-07 17:52:37.990 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Worker IDE is initialized
+2023-52-07 17:52:38.370 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.fxml.Worker - App started
+2023-52-07 17:52:44.440 [executor-thread-1] INFO  project.yer0013.eShop.server.resource.Category_Resource - Create category: Category(id=null, name=Test)
+2023-52-07 17:52:44.517 [executor-thread-1] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 2, price=10.0, rating=1.0, ratingCount=20, category=Category(id=1, name=Test))
+2023-52-07 17:52:44.517 [executor-thread-3] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 6, price=30.0, rating=3.0, ratingCount=60, category=Category(id=1, name=Test))
+2023-52-07 17:52:44.517 [executor-thread-8] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 5, price=25.0, rating=2.5, ratingCount=50, category=Category(id=1, name=Test))
+2023-52-07 17:52:44.517 [executor-thread-4] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 4, price=20.0, rating=2.0, ratingCount=40, category=Category(id=1, name=Test))
+2023-52-07 17:52:44.517 [executor-thread-5] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 1, price=5.0, rating=0.5, ratingCount=10, category=Category(id=1, name=Test))
+2023-52-07 17:52:44.517 [executor-thread-2] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 3, price=15.0, rating=1.5, ratingCount=30, category=Category(id=1, name=Test))
+2023-52-07 17:52:44.517 [executor-thread-6] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 8, price=40.0, rating=4.0, ratingCount=80, category=Category(id=1, name=Test))
+2023-52-07 17:52:44.517 [executor-thread-9] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 9, price=45.0, rating=4.5, ratingCount=90, category=Category(id=1, name=Test))
+2023-52-07 17:52:44.517 [executor-thread-10] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 7, price=35.0, rating=3.5, ratingCount=70, category=Category(id=1, name=Test))
+2023-52-07 17:52:44.517 [executor-thread-7] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 10, price=50.0, rating=5.0, ratingCount=100, category=Category(id=1, name=Test))
+2023-52-07 17:52:44.577 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is updated
+2023-52-07 17:52:44.579 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is initialized
+2023-52-07 17:52:44.763 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Customer IDE is initialized
+2023-52-07 17:52:45.323 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.fxml.Customer - App started
+2023-52-07 17:52:46.765 [executor-thread-2] INFO  project.yer0013.eShop.server.resource.Order_Resource - Create order: OrderCart(id=null, status=0, completionDate=null, item=Item(id=2, name=Game 10, price=50.0, rating=5.0, ratingCount=100, category=Category(id=1, name=Test)))
+2023-52-07 17:52:48.483 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is updated
+2023-52-07 17:52:48.483 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is initialized
+2023-52-07 17:52:49.415 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is updated
+2023-52-07 17:52:51.548 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is updated
+2023-52-07 17:52:51.548 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is initialized
+2023-55-07 17:55:36.776 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is updated
+2023-55-07 17:55:36.778 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is initialized
+2023-55-07 17:55:36.964 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Worker IDE is initialized
+2023-55-07 17:55:37.312 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.fxml.Worker - App started
+2023-55-07 17:55:43.525 [executor-thread-1] INFO  project.yer0013.eShop.server.resource.Category_Resource - Create category: Category(id=null, name=Test)
+2023-55-07 17:55:43.605 [executor-thread-1] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 6, price=30.0, rating=3.0, ratingCount=60, category=Category(id=1, name=Test))
+2023-55-07 17:55:43.605 [executor-thread-10] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 5, price=25.0, rating=2.5, ratingCount=50, category=Category(id=1, name=Test))
+2023-55-07 17:55:43.605 [executor-thread-2] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 3, price=15.0, rating=1.5, ratingCount=30, category=Category(id=1, name=Test))
+2023-55-07 17:55:43.605 [executor-thread-3] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 10, price=50.0, rating=5.0, ratingCount=100, category=Category(id=1, name=Test))
+2023-55-07 17:55:43.605 [executor-thread-7] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 7, price=35.0, rating=3.5, ratingCount=70, category=Category(id=1, name=Test))
+2023-55-07 17:55:43.605 [executor-thread-4] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 2, price=10.0, rating=1.0, ratingCount=20, category=Category(id=1, name=Test))
+2023-55-07 17:55:43.605 [executor-thread-5] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 4, price=20.0, rating=2.0, ratingCount=40, category=Category(id=1, name=Test))
+2023-55-07 17:55:43.605 [executor-thread-8] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 1, price=5.0, rating=0.5, ratingCount=10, category=Category(id=1, name=Test))
+2023-55-07 17:55:43.605 [executor-thread-6] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 8, price=40.0, rating=4.0, ratingCount=80, category=Category(id=1, name=Test))
+2023-55-07 17:55:43.605 [executor-thread-9] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 9, price=45.0, rating=4.5, ratingCount=90, category=Category(id=1, name=Test))
+2023-55-07 17:55:43.666 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is updated
+2023-55-07 17:55:43.668 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is initialized
+2023-55-07 17:55:43.829 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Customer IDE is initialized
+2023-55-07 17:55:44.414 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.fxml.Customer - App started
+2023-55-07 17:55:46.041 [executor-thread-4] INFO  project.yer0013.eShop.server.resource.Order_Resource - Create order: OrderCart(id=null, status=0, completionDate=null, item=Item(id=2, name=Game 3, price=15.0, rating=1.5, ratingCount=30, category=Category(id=1, name=Test)))
+2023-55-07 17:55:46.344 [executor-thread-4] INFO  project.yer0013.eShop.server.resource.Order_Resource - Create order: OrderCart(id=null, status=0, completionDate=null, item=Item(id=3, name=Game 6, price=30.0, rating=3.0, ratingCount=60, category=Category(id=1, name=Test)))
+2023-55-07 17:55:46.700 [executor-thread-4] INFO  project.yer0013.eShop.server.resource.Order_Resource - Create order: OrderCart(id=null, status=0, completionDate=null, item=Item(id=4, name=Game 7, price=35.0, rating=3.5, ratingCount=70, category=Category(id=1, name=Test)))
+2023-55-07 17:55:47.385 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is updated
+2023-55-07 17:55:47.385 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is initialized
+2023-55-07 17:55:48.777 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is updated
+2023-55-07 17:55:48.777 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is initialized
+2023-55-07 17:55:49.932 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is updated
+2023-55-07 17:55:50.174 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is updated
+2023-55-07 17:55:50.472 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is updated
+2023-55-07 17:55:51.115 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is updated
+2023-55-07 17:55:51.116 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is initialized
+2023-55-07 17:55:52.430 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is updated
+2023-55-07 17:55:52.431 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is initialized
+2023-02-07 18:02:39.126 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is updated
+2023-02-07 18:02:39.129 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is initialized
+2023-02-07 18:02:39.319 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Worker IDE is initialized
+2023-02-07 18:02:39.677 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.fxml.Worker - App started
+2023-02-07 18:02:48.126 [executor-thread-1] INFO  project.yer0013.eShop.server.resource.Category_Resource - Create category: Category(id=null, name=Test)
+2023-02-07 18:02:48.206 [executor-thread-7] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 1, price=5.0, rating=0.5, ratingCount=10, category=Category(id=1, name=Test))
+2023-02-07 18:02:48.206 [executor-thread-9] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 5, price=25.0, rating=2.5, ratingCount=50, category=Category(id=1, name=Test))
+2023-02-07 18:02:48.206 [executor-thread-6] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 8, price=40.0, rating=4.0, ratingCount=80, category=Category(id=1, name=Test))
+2023-02-07 18:02:48.206 [executor-thread-2] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 9, price=45.0, rating=4.5, ratingCount=90, category=Category(id=1, name=Test))
+2023-02-07 18:02:48.206 [executor-thread-8] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 4, price=20.0, rating=2.0, ratingCount=40, category=Category(id=1, name=Test))
+2023-02-07 18:02:48.206 [executor-thread-4] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 2, price=10.0, rating=1.0, ratingCount=20, category=Category(id=1, name=Test))
+2023-02-07 18:02:48.206 [executor-thread-10] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 10, price=50.0, rating=5.0, ratingCount=100, category=Category(id=1, name=Test))
+2023-02-07 18:02:48.206 [executor-thread-5] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 6, price=30.0, rating=3.0, ratingCount=60, category=Category(id=1, name=Test))
+2023-02-07 18:02:48.207 [executor-thread-3] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 7, price=35.0, rating=3.5, ratingCount=70, category=Category(id=1, name=Test))
+2023-02-07 18:02:48.206 [executor-thread-1] INFO  project.yer0013.eShop.server.resource.Item_Resource - Create item: Item(id=null, name=Game 3, price=15.0, rating=1.5, ratingCount=30, category=Category(id=1, name=Test))
+2023-02-07 18:02:48.270 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is updated
+2023-02-07 18:02:48.273 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Data is initialized
+2023-02-07 18:02:48.492 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Customer_Controller - Customer IDE is initialized
+2023-02-07 18:02:49.055 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.fxml.Customer - App started
+2023-02-07 18:02:50.659 [executor-thread-5] INFO  project.yer0013.eShop.server.resource.Order_Resource - Create order: OrderCart(id=null, status=0, completionDate=null, item=Item(id=2, name=Game 4, price=20.0, rating=2.0, ratingCount=40, category=Category(id=1, name=Test)))
+2023-02-07 18:02:52.494 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is updated
+2023-02-07 18:02:52.494 [JavaFX Application Thread] INFO  project.yer0013.eShop.client.controller.Worker_Controller - Data is initialized
